@@ -61,7 +61,7 @@ Display OLED SSD1306
 
 ## 🖼️ Esquemático
 
-![Simulação](circuit_image/image_simulator.png)
+![Simulação](circuit_image/image_simulator.jpeg)
 ![Circuito Real](circuit_image/real_circuit_image.jpg)
 
 ---
